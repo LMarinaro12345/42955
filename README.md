@@ -1,0 +1,2 @@
+# 42955
+Analizador
