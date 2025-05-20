@@ -1,0 +1,7 @@
+segun 5 hacer {
+  caso 5:
+    imprimir("Hola mundo");
+    imprimir("Ejemplo 1");
+  defecto:
+    imprimir("Esto no debería verse");
+} finsegun

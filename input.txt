@@ -1,4 +1,5 @@
-x = 2 + 3
-y = 3
-z = x + y
-z
+segun "rojo" hacer {
+  caso "rojo": escribir "El color es rojo";
+  caso "azul": escribir "El color es azul";
+  defecto: escribir "Color no reconocido";
+} finsegun

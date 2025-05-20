@@ -1,4 +1,4 @@
-// Generated from d:/Alumno/Desktop/Analizador/42955/Calculator.g4 by ANTLR 4.13.2
+// Generated from c:/Users/CSL/Desktop/UTN/2Do Año/Sintaxis/Analizador Sintactico/42955/Calculator.g4 by ANTLR 4.13.2
 // jshint ignore: start
 import antlr4 from 'antlr4';
 

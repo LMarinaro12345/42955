@@ -1,0 +1,4 @@
+segun 4 hacer {
+  caso 4:
+    imprimir("Palabra clave mal escrita");
+} finsegun

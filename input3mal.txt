@@ -1,0 +1,6 @@
+segun 3 hacer {
+  caso 3:
+    imprimir("Falta punto y coma")
+  defecto:
+    imprimir("Esto no importa");
+} finsegun

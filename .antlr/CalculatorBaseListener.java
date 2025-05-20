@@ -1,4 +1,4 @@
-// Generated from d:/Alumno/Desktop/Analizador/ssl-antlr-calculator/Calculator.g4 by ANTLR 4.13.1
+// Generated from c:/Users/CSL/Desktop/UTN/2Do Año/Sintaxis/Analizador Sintactico/42955/Calculator.g4 by ANTLR 4.13.1
 
 import org.antlr.v4.runtime.ParserRuleContext;
 import org.antlr.v4.runtime.tree.ErrorNode;
